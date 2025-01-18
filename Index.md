@@ -5,7 +5,7 @@
 - Automation
 
 ## B
-- Build Pipelines
+- Build Pipelines and files
 - Blue-Green Deployment
 
 ## C
