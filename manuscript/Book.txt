@@ -1,2 +1,3 @@
 01-introduction.md
 02-core-principles.md
+03-wechat-mini-app.md
